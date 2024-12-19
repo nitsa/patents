@@ -1,2 +1,2 @@
-# patents
-Published Patents
+# Published Patents
+This repository contains published patents.
